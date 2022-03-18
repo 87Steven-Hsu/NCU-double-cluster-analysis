@@ -3,4 +3,4 @@ Some code to analysis the kinematics and structure of a double cluster
 
 0ne double cluster is ASCC16 and ASCC21, another is h and chi
 
-WE used IDL we do this study.
+We used IDL we do this study.
